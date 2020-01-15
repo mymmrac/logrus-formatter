@@ -1,4 +1,4 @@
-module LogrusFormatter
+module github.com/mymmrac/logrus-formatter
 
 go 1.13
 
